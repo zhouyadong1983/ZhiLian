@@ -13,9 +13,237 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-20T03:40:08.421+08:00
+  lastUpdatedAtString: 2020-09-20T03:43:41.569+08:00
   initializedAtString: 2020-09-20T02:58:32.006+08:00
   log:
+  - commitID: cf09cc6265ee90368b9fe7798952e84dc80ce642
+    mergeA: 
+    mergeB: 
+    authorName: zhouyadong1983
+    authorEmail: 191337976@qq.com
+    commitEmail: 191337976@qq.com
+    commitName: zhouyadong1983
+    summary: "\u5728\u9996\u9875\u548C\u7B2C\u4E8C\u4E2A\u573A\u666F\u52A0\u5165\u4E09\u4E2A\u697C\u4F53"
+    description: "\u5E94\u7532\u65B9\u8981\u6C42\u4E0D\u540C\u6807\u7B7E\u7528\u4E0D\u540C\u697C\u4F53\u4EE3\u66FF\uFF0C\u5728\u9996\u9875\u548C\u7B2C\u4E8C\u4E2A\u573A\u666F\u52A0\u5165\u4E09\u4E2A\u697C\u4F53"
+    timeString: 2020-09-20T03:43:10.000+08:00
+    commitTimeString: 2020-09-20T03:43:10.000+08:00
+    changes:
+    - path: .DS_Store
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/.DS_Store"
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Models/ZhengFaLou.FBX
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Models/ZhengFaLou.FBX"
+      projectPath: Assets/Models/ZhengFaLou.FBX
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Models/ZhengFaLou.FBX.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Models/ZhengFaLou.FBX.meta"
+      projectPath: Assets/Models/ZhengFaLou.FBX.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/JiaoXueLou.prefab
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/JiaoXueLou.prefab"
+      projectPath: Assets/Prefab/JiaoXueLou.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/JiaoXueLou.prefab.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/JiaoXueLou.prefab.meta"
+      projectPath: Assets/Prefab/JiaoXueLou.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/YiYuanLou.prefab
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/YiYuanLou.prefab"
+      projectPath: Assets/Prefab/YiYuanLou.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/YiYuanLou.prefab.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/YiYuanLou.prefab.meta"
+      projectPath: Assets/Prefab/YiYuanLou.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/ZhengFaLou.prefab
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/ZhengFaLou.prefab"
+      projectPath: Assets/Prefab/ZhengFaLou.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefab/ZhengFaLou.prefab.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Prefab/ZhengFaLou.prefab.meta"
+      projectPath: Assets/Prefab/ZhengFaLou.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      projectPath: "Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u9996\u9875.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u9996\u9875.unity"
+      projectPath: "Assets/Scenes/\u9996\u9875.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ArtifactDB"
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/36/3648a250fc478a4185b339e5f3d37d3e
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/36/3648a250fc478a4185b339e5f3d37d3e"
+      projectPath: Library/Artifacts/36/3648a250fc478a4185b339e5f3d37d3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/4f/4f66b540ca616f288f801652743b977b
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/4f/4f66b540ca616f288f801652743b977b"
+      projectPath: Library/Artifacts/4f/4f66b540ca616f288f801652743b977b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/50/503e829fb123756331a4f655612bdec2
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/50/503e829fb123756331a4f655612bdec2"
+      projectPath: Library/Artifacts/50/503e829fb123756331a4f655612bdec2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/70/70c1662bb26e5de3adabc1e56d9a7b2e
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/70/70c1662bb26e5de3adabc1e56d9a7b2e"
+      projectPath: Library/Artifacts/70/70c1662bb26e5de3adabc1e56d9a7b2e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/a9/a94f11afa23747df88423d33b2d4ba38
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/a9/a94f11afa23747df88423d33b2d4ba38"
+      projectPath: Library/Artifacts/a9/a94f11afa23747df88423d33b2d4ba38
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/b1/b1c4eddf6423ed15479c80084eb762f5
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/b1/b1c4eddf6423ed15479c80084eb762f5"
+      projectPath: Library/Artifacts/b1/b1c4eddf6423ed15479c80084eb762f5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/b6/b61d1497d9b8b5493743654574e126d9
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/b6/b61d1497d9b8b5493743654574e126d9"
+      projectPath: Library/Artifacts/b6/b61d1497d9b8b5493743654574e126d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/e8/e86061d27d8e002561f293352dc1f974
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/e8/e86061d27d8e002561f293352dc1f974"
+      projectPath: Library/Artifacts/e8/e86061d27d8e002561f293352dc1f974
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentLayout-default.dwlt"
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/EditorInstance.json"
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/SourceAssetDB"
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/244503-afaaabb8cc34842ee9.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/244503-afaaabb8cc34842ee9.json"
+      projectPath: Library/StateCache/Hierarchy/244503-afaaabb8cc34842ee9.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/244503-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/244503-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/244503-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8a6fb0-afaaabb8cc34842ee9.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/8a6fb0-afaaabb8cc34842ee9.json"
+      projectPath: Library/StateCache/SceneView/8a6fb0-afaaabb8cc34842ee9.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/8a6fb0-mainStage.json"
+      projectPath: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitfilelog.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitfilelog.yaml"
+      projectPath: Library/gfu/cache/gitfilelog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gituser.yaml"
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Temp/__Backupscenes/0.backup"
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 45bd1247fe7da3a03571c4af74d6e9eb4c9c88ca
     mergeA: 
     mergeB: 

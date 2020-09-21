@@ -13,9 +13,135 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-21T06:52:40.842+08:00
-  initializedAtString: 2020-09-21T06:39:09.820+08:00
+  lastUpdatedAtString: 2020-09-21T10:00:34.310+08:00
+  initializedAtString: 2020-09-21T10:00:34.310+08:00
   log:
+  - commitID: eb96709c4b3a951fae9c2449198e372d986ea9a4
+    mergeA: 
+    mergeB: 
+    authorName: zhouyadong1983
+    authorEmail: 191337976@qq.com
+    commitEmail: 191337976@qq.com
+    commitName: zhouyadong1983
+    summary: delete "PlayVideo.cs"
+    description: dont need this any more
+    timeString: 2020-09-21T06:53:54.000+08:00
+    commitTimeString: 2020-09-21T06:53:54.000+08:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assembly-CSharp.csproj"
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      projectPath: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs.meta"
+      projectPath: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs.meta"
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ArtifactDB"
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/21/21f9e680bd55d1b56aa3b9ee715ae5ad
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/21/21f9e680bd55d1b56aa3b9ee715ae5ad"
+      projectPath: Library/Artifacts/21/21f9e680bd55d1b56aa3b9ee715ae5ad
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentLayout-default.dwlt"
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/EditorInstance.json"
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/LastSceneManagerSetup.txt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/LastSceneManagerSetup.txt"
+      projectPath: Library/LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ScriptAssemblies/Assembly-CSharp.dll"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/SourceAssetDB"
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/8a6fb0-mainStage.json"
+      projectPath: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gituser.yaml"
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 576b278bcf88613171dbfaff1014cbb6055a3db8
     mergeA: 
     mergeB: 

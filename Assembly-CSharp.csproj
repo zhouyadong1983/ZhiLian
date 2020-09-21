@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\StaticString.cs" />
     <Compile Include="Assets\Scripts\startRotate.cs" />
     <Compile Include="Assets\Scripts\三级场景\ArrowControl.cs" />
+    <Compile Include="Assets\Scripts\三级场景\PlayVideo.cs" />
     <Compile Include="Assets\Scripts\二级场景\ControlArrowGlow.cs" />
     <Compile Include="Assets\Scripts\二级场景\RecordColliderObjName.cs" />
     <Compile Include="Assets\Scripts\二级场景\RecordCurruntSceneName.cs" />

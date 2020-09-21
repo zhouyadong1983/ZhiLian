@@ -16,13 +16,11 @@ ScriptsOnlyBuild:
     - startRotate
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.FileHistoryWindow
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitFileLogCache
     - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
@@ -982,12 +980,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 7ed93bb45ed426b576463480996721b9
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayVideo
   platform: 19
   scenePathNames:
   - "Assets/Scenes/\u9996\u9875.unity"

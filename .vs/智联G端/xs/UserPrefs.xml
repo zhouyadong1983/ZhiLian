@@ -4,7 +4,7 @@
       <File FileName="Assets/Scripts/DragRound.cs" Line="23" Column="54" />
       <File FileName="Assets/Scripts/StaticString.cs" />
       <File FileName="Assets/Scripts/RecordColliderName.cs" />
-      <File FileName="Assets/Scripts/二级场景/UIManager.cs" Line="33" Column="29" />
+      <File FileName="Assets/Scripts/二级场景/UIManager.cs" />
       <File FileName="Assets/Scripts/三级场景/ArrowControl.cs" />
       <File FileName="Assets/Scripts/二级场景/RecordCurruntSceneName.cs" />
       <File FileName="Assets/Scripts/二级场景/RecordColliderObjName.cs" />
@@ -16,7 +16,7 @@
       <File FileName="../../../../Applications/Unity/Hub/Editor/2019.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" />
       <File FileName="Assets/Scripts/LookatScipt.cs" />
       <File FileName="Assets/Scripts/ShowUI.cs" />
-      <File FileName="Assets/Scripts/三级场景/PlayVideo.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/三级场景/PlayVideo.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -38,7 +38,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5985073a-7567-4898-94a9-d8aef6590052" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82898a7f-c2f6-4e0d-ae6a-bb3ba4aec914" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

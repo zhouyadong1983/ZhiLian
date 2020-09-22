@@ -7,6 +7,7 @@ ScriptsOnlyBuild:
     - DragRound
     - LookatScipt
     - ManageScene
+    - PlayVideo
     - RecordColliderName
     - RecordColliderObjName
     - RecordCurruntSceneName
@@ -16,11 +17,13 @@ ScriptsOnlyBuild:
     - startRotate
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.FileHistoryWindow
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitFileLogCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
@@ -236,6 +239,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13144}
     - Class: 114
       Script: {instanceID: 13176}
+    - Class: 114
+      Script: {instanceID: 16130}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -980,6 +985,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayVideo
   platform: 19
   scenePathNames:
   - "Assets/Scenes/\u9996\u9875.unity"

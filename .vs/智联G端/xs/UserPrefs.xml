@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{0663B1AA-86AC-A82F-D872-BF9C8539828E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/三级场景/PlayVideo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/二级场景/UIManager.cs">
     <Files>
       <File FileName="Assets/Scripts/DragRound.cs" Line="23" Column="54" />
       <File FileName="Assets/Scripts/StaticString.cs" />
       <File FileName="Assets/Scripts/RecordColliderName.cs" />
-      <File FileName="Assets/Scripts/二级场景/UIManager.cs" />
+      <File FileName="Assets/Scripts/二级场景/UIManager.cs" Line="173" Column="1" />
       <File FileName="Assets/Scripts/三级场景/ArrowControl.cs" />
       <File FileName="Assets/Scripts/二级场景/RecordCurruntSceneName.cs" />
       <File FileName="Assets/Scripts/二级场景/RecordColliderObjName.cs" />
@@ -16,7 +16,7 @@
       <File FileName="../../../../Applications/Unity/Hub/Editor/2019.3.4f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Graphic.cs" />
       <File FileName="Assets/Scripts/LookatScipt.cs" />
       <File FileName="Assets/Scripts/ShowUI.cs" />
-      <File FileName="Assets/Scripts/三级场景/PlayVideo.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/三级场景/PlayVideo.cs" Line="18" Column="80" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,10 +24,10 @@
           <Node name="智联G端" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="三级场景" expanded="True">
-                  <Node name="PlayVideo.cs" selected="True" />
+                <Node name="三级场景" expanded="True" />
+                <Node name="二级场景" expanded="True">
+                  <Node name="UIManager.cs" selected="True" />
                 </Node>
-                <Node name="二级场景" expanded="True" />
               </Node>
               <Node name="Shaders" expanded="True" />
             </Node>
@@ -38,7 +38,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82898a7f-c2f6-4e0d-ae6a-bb3ba4aec914" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f84f0be-99d2-46e2-96e0-8da4b2662cb9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

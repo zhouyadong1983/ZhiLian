@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-22T14:14:34.062+08:00
-  initializedAtString: 2020-09-22T14:14:34.062+08:00
+  lastUpdatedAtString: 2020-09-23T07:17:32.636+08:00
+  initializedAtString: 2020-09-23T07:17:16.215+08:00
   currentGitRemote:
     name: origin
-    url: https://github.com/zhouyadong1983/work11.git
+    url: https://github.com/zhouyadong1983/ZhiLian.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/zhouyadong1983/work11.git
+      url: https://github.com/zhouyadong1983/ZhiLian.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/zhouyadong1983/work11.git
+    url: https://github.com/zhouyadong1983/ZhiLian.git
   currentHead: 

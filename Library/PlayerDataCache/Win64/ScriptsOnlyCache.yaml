@@ -3,10 +3,13 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ArrowControl
     - Breath
+    - ClickCounter
     - ControlArrowGlow
     - DragRound
     - LookatScipt
     - ManageScene
+    - PlayMultiVideo
+    - PlayPic
     - PlayVideo
     - RecordColliderName
     - RecordColliderObjName
@@ -17,12 +20,15 @@ ScriptsOnlyBuild:
     - startRotate
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.FileHistoryWindow
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitFileLogCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
     - GitHub.Unity.Window
     Unity.Rider.Editor.dll:
@@ -64,6 +70,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
     - Class: 104
@@ -83,6 +91,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12272}
     - Class: 114
+      Script: {instanceID: 12294}
+    - Class: 114
       Script: {instanceID: 12582}
     - Class: 114
       Script: {instanceID: 12770}
@@ -98,6 +108,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13146}
     - Class: 114
       Script: {instanceID: 13178}
+    - Class: 114
+      Script: {instanceID: 224236}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -113,6 +125,8 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 320
+      Script: {instanceID: 0}
+    - Class: 328
       Script: {instanceID: 0}
     "Assets/Scenes/\u4E09\u7EA7\u653F\u6CD5.unity":
     - Class: 1
@@ -238,6 +252,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13146}
     - Class: 114
       Script: {instanceID: 13178}
+    - Class: 114
+      Script: {instanceID: 185010}
+    - Class: 114
+      Script: {instanceID: 198656}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -988,6 +1006,24 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: fb5d1e1dbb8c24fe311203b8e27358e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayPic
+  - hash:
+      serializedVersion: 2
+      Hash: 438095b4e4550b7677c7826868ad86bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ClickCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayMultiVideo
   platform: 19
   scenePathNames:
   - "Assets/Scenes/\u9996\u9875.unity"

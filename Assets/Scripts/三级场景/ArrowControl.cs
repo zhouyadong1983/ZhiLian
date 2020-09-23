@@ -165,6 +165,9 @@ public class ArrowControl : MonoBehaviour
                 hexagonFst.SetActive(false);
                 hexagonScd.SetActive(false);
                 hexagonThd.SetActive(true);
+
+
+
                 break;
         }
     }

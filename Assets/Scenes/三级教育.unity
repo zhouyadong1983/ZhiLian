@@ -3230,6 +3230,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd9c0164e757144208a2a11cd5532e1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moviePlayerL: {fileID: 1964019462}
+  moviePlayerR: {fileID: 423022884}
+  imageL: {fileID: 332964958}
+  imageR: {fileID: 278387325}
 --- !u!114 &1197731563
 MonoBehaviour:
   m_ObjectHideFlags: 0

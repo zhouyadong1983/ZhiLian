@@ -6,24 +6,24 @@ using UnityEngine.Video;
 public class PlayVideo : MonoBehaviour
 {
     private GameObject videoObject;
-    private VideoPlayer moviePlayerL;
-    private VideoPlayer moviePlayerR;
+    public VideoPlayer moviePlayerL;
+    public VideoPlayer moviePlayerR;
 
-    private GameObject imageL;
-    private GameObject imageR;
+    public GameObject imageL;
+    public GameObject imageR;
 
     float curruntFrameL;
     float curruntFrameR;
     // Start is called before the first frame update
     void Start()
     {
-        imageL = GameObject.Find("Canvas/银医通/ImageL/RawImage");
-        imageR = GameObject.Find("Canvas/银医通/ImageR/RawImage");
+        //imageL = GameObject.Find("Canvas/银医通/ImageL/RawImage");
+        //imageR = GameObject.Find("Canvas/银医通/ImageR/RawImage");
 
-        moviePlayerL = GameObject.Find("Canvas/银医通/ImageL").transform.GetComponent<VideoPlayer>();
+        //moviePlayerL = GameObject.Find("Canvas/银医通/ImageL").transform.GetComponent<VideoPlayer>();
         moviePlayerL.url = "file://" + Application.dataPath + "/StreamingAssets/Video/L.mp4";
 
-        moviePlayerR = GameObject.Find("Canvas/银医通/ImageR").transform.GetComponent<VideoPlayer>();
+        //moviePlayerR = GameObject.Find("Canvas/银医通/ImageR").transform.GetComponent<VideoPlayer>();
         moviePlayerR.url = "file://" + Application.dataPath + "/StreamingAssets/Video/R.mp4";
     }
 

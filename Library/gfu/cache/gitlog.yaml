@@ -13,9 +13,1393 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-24T22:58:23.581+08:00
+  lastUpdatedAtString: 2020-09-24T23:00:07.411+08:00
   initializedAtString: 2020-09-24T22:58:23.581+08:00
   log:
+  - commitID: 96f64204298571f873d6ef492439b2739eeada0d
+    mergeA: 
+    mergeB: 
+    authorName: zhouyadong1983
+    authorEmail: 191337976@qq.com
+    commitEmail: 191337976@qq.com
+    commitName: zhouyadong1983
+    summary: "\u5B8C\u5584\u9996\u9875\u6548\u679C"
+    description: "\u9996\u9875\u6DFB\u52A0\u706F\u5149\uFF0C\u8C03\u6574\u9996\u9875\u6750\u8D28\u4E3Arendertexture"
+    timeString: 2020-09-24T22:59:20.000+08:00
+    commitTimeString: 2020-09-24T22:59:20.000+08:00
+    changes:
+    - path: .DS_Store
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/.DS_Store"
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ".vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/.vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      projectPath: ".vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/.DS_Store
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/.DS_Store"
+      projectPath: Assets/.DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Materials/\u57CE\u5E02\u6A21\u578B.mat"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Materials/\u57CE\u5E02\u6A21\u578B.mat"
+      projectPath: "Assets/Materials/\u57CE\u5E02\u6A21\u578B.mat"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Materials/\u5C0F\u5706.mat"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Materials/\u5C0F\u5706.mat"
+      projectPath: "Assets/Materials/\u5C0F\u5706.mat"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Materials/\u661F\u661F.mat"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Materials/\u661F\u661F.mat"
+      projectPath: "Assets/Materials/\u661F\u661F.mat"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/Materials/\u661F\u661F.mat.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Materials/\u661F\u661F.mat.meta"
+      projectPath: "Assets/Materials/\u661F\u661F.mat.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Particle.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Particle.meta"
+      projectPath: Assets/Particle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      projectPath: "Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      projectPath: "Assets/Scenes/\u4E8C\u7EA7\u9875\u9762.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u9996\u9875.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u9996\u9875.unity"
+      projectPath: "Assets/Scenes/\u9996\u9875.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/LookatScipt.cs
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scripts/LookatScipt.cs"
+      projectPath: Assets/Scripts/LookatScipt.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      projectPath: "Assets/Scripts/\u4E09\u7EA7\u573A\u666F/PlayVideo.cs"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star (1)Timeline.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star
+        (1)Timeline.playable"
+      projectPath: Assets/TimeLine/Star (1)Timeline.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star (1)Timeline.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star
+        (1)Timeline.playable.meta"
+      projectPath: Assets/TimeLine/Star (1)Timeline.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star2Timeline.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star2Timeline.playable"
+      projectPath: Assets/TimeLine/Star2Timeline.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star2Timeline.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star2Timeline.playable.meta"
+      projectPath: Assets/TimeLine/Star2Timeline.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star3Timeline.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star3Timeline.playable"
+      projectPath: Assets/TimeLine/Star3Timeline.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star3Timeline.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star3Timeline.playable.meta"
+      projectPath: Assets/TimeLine/Star3Timeline.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star4Timeline.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star4Timeline.playable"
+      projectPath: Assets/TimeLine/Star4Timeline.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/Star4Timeline.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/Star4Timeline.playable.meta"
+      projectPath: Assets/TimeLine/Star4Timeline.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/StarTimeline.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/StarTimeline.playable"
+      projectPath: Assets/TimeLine/StarTimeline.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/StarTimeline.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/StarTimeline.playable.meta"
+      projectPath: Assets/TimeLine/StarTimeline.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/StreamingAssets.playable
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/StreamingAssets.playable"
+      projectPath: Assets/TimeLine/StreamingAssets.playable
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/TimeLine/StreamingAssets.playable.meta
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/TimeLine/StreamingAssets.playable.meta"
+      projectPath: Assets/TimeLine/StreamingAssets.playable.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/Materials/\u4E2D\u95F4\u5927\u5706.mat"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/Materials/\u4E2D\u95F4\u5927\u5706.mat"
+      projectPath: "Assets/UI/Materials/\u4E2D\u95F4\u5927\u5706.mat"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/UI/Materials/\u667A\u8054G\u7AEF.mat"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/Materials/\u667A\u8054G\u7AEF.mat"
+      projectPath: "Assets/UI/Materials/\u667A\u8054G\u7AEF.mat"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/Materials/\u667A\u8054G\u7AEF.mat.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/Materials/\u667A\u8054G\u7AEF.mat.meta"
+      projectPath: "Assets/UI/Materials/\u667A\u8054G\u7AEF.mat.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u5C0F\u57062.PNG"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u5C0F\u57062.PNG"
+      projectPath: "Assets/UI/\u5C0F\u57062.PNG"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u5C0F\u57062.PNG.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u5C0F\u57062.PNG.meta"
+      projectPath: "Assets/UI/\u5C0F\u57062.PNG.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u661F\u5149.png"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u661F\u5149.png"
+      projectPath: "Assets/UI/\u661F\u5149.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u661F\u5149.png.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u661F\u5149.png.meta"
+      projectPath: "Assets/UI/\u661F\u5149.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B571.png"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B571.png"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B571.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B571.png.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B571.png.meta"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B571.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B5712 \u526F\u672C.png"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B5712
+        \u526F\u672C.png"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B5712 \u526F\u672C.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B5712 \u526F\u672C.png.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B5712
+        \u526F\u672C.png.meta"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B5712 \u526F\u672C.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B5712.png"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B5712.png"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B5712.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "Assets/UI/\u7ACB\u4F53\u5B5712.png.meta"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/UI/\u7ACB\u4F53\u5B5712.png.meta"
+      projectPath: "Assets/UI/\u7ACB\u4F53\u5B5712.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ArtifactDB"
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/15/15bf371ff89e9cd3e17158e3d0e2c8e8
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/15/15bf371ff89e9cd3e17158e3d0e2c8e8"
+      projectPath: Library/Artifacts/15/15bf371ff89e9cd3e17158e3d0e2c8e8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/1c/1c1be1d874b5414f8960e1dc83ab0546
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/1c/1c1be1d874b5414f8960e1dc83ab0546"
+      projectPath: Library/Artifacts/1c/1c1be1d874b5414f8960e1dc83ab0546
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/1f/1f79b78887591cd6d7d4dc83444795fd
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/1f/1f79b78887591cd6d7d4dc83444795fd"
+      projectPath: Library/Artifacts/1f/1f79b78887591cd6d7d4dc83444795fd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/33/339b054a3558207fca7b0ab9b2821487
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/33/339b054a3558207fca7b0ab9b2821487"
+      projectPath: Library/Artifacts/33/339b054a3558207fca7b0ab9b2821487
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/49/49f3a5277baed6b229ead6b72eba40eb
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/49/49f3a5277baed6b229ead6b72eba40eb"
+      projectPath: Library/Artifacts/49/49f3a5277baed6b229ead6b72eba40eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/52/520df6e1d53731044109f34f20c393e5
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/52/520df6e1d53731044109f34f20c393e5"
+      projectPath: Library/Artifacts/52/520df6e1d53731044109f34f20c393e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/61/6170a12f53148a8f4e00a3eff76837eb
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/61/6170a12f53148a8f4e00a3eff76837eb"
+      projectPath: Library/Artifacts/61/6170a12f53148a8f4e00a3eff76837eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/75/7554dda6a7aa4c1ab83626d85b53d239
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/75/7554dda6a7aa4c1ab83626d85b53d239"
+      projectPath: Library/Artifacts/75/7554dda6a7aa4c1ab83626d85b53d239
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/78/7821a090478cd91b329b91a26cebc277
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/78/7821a090478cd91b329b91a26cebc277"
+      projectPath: Library/Artifacts/78/7821a090478cd91b329b91a26cebc277
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/7b/7b597be353e855c9f4d16d41a3c801e9
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/7b/7b597be353e855c9f4d16d41a3c801e9"
+      projectPath: Library/Artifacts/7b/7b597be353e855c9f4d16d41a3c801e9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/97/97b7ec1888b04dbd2583da4e8d4d3f34
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/97/97b7ec1888b04dbd2583da4e8d4d3f34"
+      projectPath: Library/Artifacts/97/97b7ec1888b04dbd2583da4e8d4d3f34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/9f/9fe72447272eab56872813b28facba18
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/9f/9fe72447272eab56872813b28facba18"
+      projectPath: Library/Artifacts/9f/9fe72447272eab56872813b28facba18
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/a6/a6ed67cc17dd5bb7822c274d949efbe5
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/a6/a6ed67cc17dd5bb7822c274d949efbe5"
+      projectPath: Library/Artifacts/a6/a6ed67cc17dd5bb7822c274d949efbe5
+      originalPath: Library/Artifacts/99/9922ad5b5c8ffaffa462ca2e61be6f95
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library/Artifacts/a7/a7f612449546aa81426daf14dfc92030
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/a7/a7f612449546aa81426daf14dfc92030"
+      projectPath: Library/Artifacts/a7/a7f612449546aa81426daf14dfc92030
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library/Artifacts/a8/a8c61df1183d7ec8c5a89a9d7124e449
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/a8/a8c61df1183d7ec8c5a89a9d7124e449"
+      projectPath: Library/Artifacts/a8/a8c61df1183d7ec8c5a89a9d7124e449
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/b9/b9fc169721aa7f3d645c8230fc4d05e0
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/b9/b9fc169721aa7f3d645c8230fc4d05e0"
+      projectPath: Library/Artifacts/b9/b9fc169721aa7f3d645c8230fc4d05e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/c4/c4436239222c604d3a6f7af46783803e
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/c4/c4436239222c604d3a6f7af46783803e"
+      projectPath: Library/Artifacts/c4/c4436239222c604d3a6f7af46783803e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/c5/c58b9623560c5e74d4f24326c3e3af1b
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/c5/c58b9623560c5e74d4f24326c3e3af1b"
+      projectPath: Library/Artifacts/c5/c58b9623560c5e74d4f24326c3e3af1b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/d2/d2d2b19fb02466066409e655688468df
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/d2/d2d2b19fb02466066409e655688468df"
+      projectPath: Library/Artifacts/d2/d2d2b19fb02466066409e655688468df
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/d9/d99d110354046e51744f057f16aea7ff
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/d9/d99d110354046e51744f057f16aea7ff"
+      projectPath: Library/Artifacts/d9/d99d110354046e51744f057f16aea7ff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/e3/e34daef59d22db9cbcf0a72224ded5d4
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/e3/e34daef59d22db9cbcf0a72224ded5d4"
+      projectPath: Library/Artifacts/e3/e34daef59d22db9cbcf0a72224ded5d4
+      originalPath: Library/Artifacts/6d/6dfc75844ed346066b75b0a7de3eb298
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library/Artifacts/e5/e513f3a34e677316858adc90f7bfe422
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/e5/e513f3a34e677316858adc90f7bfe422"
+      projectPath: Library/Artifacts/e5/e513f3a34e677316858adc90f7bfe422
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/fa/fa22c900b6dfa0739c52a4c137f94bc7
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/fa/fa22c900b6dfa0739c52a4c137f94bc7"
+      projectPath: Library/Artifacts/fa/fa22c900b6dfa0739c52a4c137f94bc7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentLayout-default.dwlt"
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentMaximizeLayout.dwlt"
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/EditorInstance.json"
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorUserSettings.asset
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/EditorUserSettings.asset"
+      projectPath: Library/EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/InspectorExpandedItems.asset"
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/LastBuild.buildreport
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/LastBuild.buildreport"
+      projectPath: Library/LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/Managed/Assembly-CSharp.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/Managed/Assembly-CSharp.dll"
+      projectPath: Library/PlayerDataCache/Win64/Data/Managed/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/Managed/Unity.TextMeshPro.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/Managed/Unity.TextMeshPro.dll"
+      projectPath: Library/PlayerDataCache/Win64/Data/Managed/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/Managed/Unity.Timeline.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/Managed/Unity.Timeline.dll"
+      projectPath: Library/PlayerDataCache/Win64/Data/Managed/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/Managed/UnityEngine.UI.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/Managed/UnityEngine.UI.dll"
+      projectPath: Library/PlayerDataCache/Win64/Data/Managed/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/globalgamemanagers
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/globalgamemanagers"
+      projectPath: Library/PlayerDataCache/Win64/Data/globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/level0
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/level0"
+      projectPath: Library/PlayerDataCache/Win64/Data/level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/level1
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/level1"
+      projectPath: Library/PlayerDataCache/Win64/Data/level1
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/level4
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/level4"
+      projectPath: Library/PlayerDataCache/Win64/Data/level4
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets0.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets0.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets0.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets1.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets1.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets1.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets2.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets2.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets2.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets3.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets3.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets3.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets4.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets4.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets4.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/Data/sharedassets5.assets
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/Data/sharedassets5.assets"
+      projectPath: Library/PlayerDataCache/Win64/Data/sharedassets5.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/ScriptsOnlyCache.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/ScriptsOnlyCache.yaml"
+      projectPath: Library/PlayerDataCache/Win64/ScriptsOnlyCache.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ScriptAssemblies/Assembly-CSharp.dll"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0159a7899b9e0d93044b5369e5fc5a66.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0159a7899b9e0d93044b5369e5fc5a66.bin"
+      projectPath: Library/ShaderCache/0/0159a7899b9e0d93044b5369e5fc5a66.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0163219f100073d78b0cda6931fbb126.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0163219f100073d78b0cda6931fbb126.bin"
+      projectPath: Library/ShaderCache/0/0163219f100073d78b0cda6931fbb126.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/017b768e9d1777702f6b436e87d748b6.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/017b768e9d1777702f6b436e87d748b6.bin"
+      projectPath: Library/ShaderCache/0/017b768e9d1777702f6b436e87d748b6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/01882ea4ebdf0de38bc6bcf45d4c6f96.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/01882ea4ebdf0de38bc6bcf45d4c6f96.bin"
+      projectPath: Library/ShaderCache/0/01882ea4ebdf0de38bc6bcf45d4c6f96.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0707ee520208a381f53deed84f731330.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0707ee520208a381f53deed84f731330.bin"
+      projectPath: Library/ShaderCache/0/0707ee520208a381f53deed84f731330.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0727698e74369dbde54585e820f60556.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0727698e74369dbde54585e820f60556.bin"
+      projectPath: Library/ShaderCache/0/0727698e74369dbde54585e820f60556.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0be11aa452e7125402f0a54ee12b14e7.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0be11aa452e7125402f0a54ee12b14e7.bin"
+      projectPath: Library/ShaderCache/0/0be11aa452e7125402f0a54ee12b14e7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0c0ca75090b37d5d5362716361a26faa.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0c0ca75090b37d5d5362716361a26faa.bin"
+      projectPath: Library/ShaderCache/0/0c0ca75090b37d5d5362716361a26faa.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0ca2ed174cd8a8dffebe109a18a1a28c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0ca2ed174cd8a8dffebe109a18a1a28c.bin"
+      projectPath: Library/ShaderCache/0/0ca2ed174cd8a8dffebe109a18a1a28c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0d606434532d4756a0d0bedf5dc98524.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0d606434532d4756a0d0bedf5dc98524.bin"
+      projectPath: Library/ShaderCache/0/0d606434532d4756a0d0bedf5dc98524.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/0/0f51db8e4d53c509babdb44e0dbdc754.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/0/0f51db8e4d53c509babdb44e0dbdc754.bin"
+      projectPath: Library/ShaderCache/0/0f51db8e4d53c509babdb44e0dbdc754.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/136f65314861f580bafff9a4f5cb1fb8.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/1/136f65314861f580bafff9a4f5cb1fb8.bin"
+      projectPath: Library/ShaderCache/1/136f65314861f580bafff9a4f5cb1fb8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/149af8d26aacb026834fc29550c4b349.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/1/149af8d26aacb026834fc29550c4b349.bin"
+      projectPath: Library/ShaderCache/1/149af8d26aacb026834fc29550c4b349.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/18fb29941d720b4b3deae0ac0f9fca43.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/1/18fb29941d720b4b3deae0ac0f9fca43.bin"
+      projectPath: Library/ShaderCache/1/18fb29941d720b4b3deae0ac0f9fca43.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1c6f269d1b2bc60c0471bc838005c8cd.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/1/1c6f269d1b2bc60c0471bc838005c8cd.bin"
+      projectPath: Library/ShaderCache/1/1c6f269d1b2bc60c0471bc838005c8cd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/1/1fb3b87cceb98adedf90ea09a84fb29e.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/1/1fb3b87cceb98adedf90ea09a84fb29e.bin"
+      projectPath: Library/ShaderCache/1/1fb3b87cceb98adedf90ea09a84fb29e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/21d30c6c986c559233fc35280af32892.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/21d30c6c986c559233fc35280af32892.bin"
+      projectPath: Library/ShaderCache/2/21d30c6c986c559233fc35280af32892.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/24a48b9adda6b0bb54955e9b8c612419.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/24a48b9adda6b0bb54955e9b8c612419.bin"
+      projectPath: Library/ShaderCache/2/24a48b9adda6b0bb54955e9b8c612419.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/2716096d5c2c9f85d154ef2da8b8948b.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/2716096d5c2c9f85d154ef2da8b8948b.bin"
+      projectPath: Library/ShaderCache/2/2716096d5c2c9f85d154ef2da8b8948b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/28dfe4be868bd4ac8c15ef8f31086abd.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/28dfe4be868bd4ac8c15ef8f31086abd.bin"
+      projectPath: Library/ShaderCache/2/28dfe4be868bd4ac8c15ef8f31086abd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/29f45003d6e0675c01e6a5a93153935c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/29f45003d6e0675c01e6a5a93153935c.bin"
+      projectPath: Library/ShaderCache/2/29f45003d6e0675c01e6a5a93153935c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/2/2a5eb7fc7430736f7022d6c0ffd06de4.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/2/2a5eb7fc7430736f7022d6c0ffd06de4.bin"
+      projectPath: Library/ShaderCache/2/2a5eb7fc7430736f7022d6c0ffd06de4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/30db91ba2bace4da6e59d5fac371936c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/30db91ba2bace4da6e59d5fac371936c.bin"
+      projectPath: Library/ShaderCache/3/30db91ba2bace4da6e59d5fac371936c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/35402808b15ef340a693a31f6b658ed9.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/35402808b15ef340a693a31f6b658ed9.bin"
+      projectPath: Library/ShaderCache/3/35402808b15ef340a693a31f6b658ed9.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/374671fe9ec5695fead7fe4ba6f0e718.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/374671fe9ec5695fead7fe4ba6f0e718.bin"
+      projectPath: Library/ShaderCache/3/374671fe9ec5695fead7fe4ba6f0e718.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3ab99b716631c1a8c22fd043b2f36321.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/3ab99b716631c1a8c22fd043b2f36321.bin"
+      projectPath: Library/ShaderCache/3/3ab99b716631c1a8c22fd043b2f36321.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3aeac0f8cfda92a7eb821016b83dd845.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/3aeac0f8cfda92a7eb821016b83dd845.bin"
+      projectPath: Library/ShaderCache/3/3aeac0f8cfda92a7eb821016b83dd845.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3ca6dbd3c99b8b666028a0e174fea089.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/3ca6dbd3c99b8b666028a0e174fea089.bin"
+      projectPath: Library/ShaderCache/3/3ca6dbd3c99b8b666028a0e174fea089.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/3/3da99b0249f247da091caae70697595a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/3/3da99b0249f247da091caae70697595a.bin"
+      projectPath: Library/ShaderCache/3/3da99b0249f247da091caae70697595a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/446b7c9b1458d928a3d85cf5453a886a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/446b7c9b1458d928a3d85cf5453a886a.bin"
+      projectPath: Library/ShaderCache/4/446b7c9b1458d928a3d85cf5453a886a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/44fe473228f3a3940f851dd0bc5b4343.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/44fe473228f3a3940f851dd0bc5b4343.bin"
+      projectPath: Library/ShaderCache/4/44fe473228f3a3940f851dd0bc5b4343.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/45a92ad4ac8bba93d47876342a4d8697.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/45a92ad4ac8bba93d47876342a4d8697.bin"
+      projectPath: Library/ShaderCache/4/45a92ad4ac8bba93d47876342a4d8697.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/4749f1113b36297bc5915a53d9eeefc2.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/4749f1113b36297bc5915a53d9eeefc2.bin"
+      projectPath: Library/ShaderCache/4/4749f1113b36297bc5915a53d9eeefc2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/47fc6675eb309dbcd00dabfab9ebd585.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/47fc6675eb309dbcd00dabfab9ebd585.bin"
+      projectPath: Library/ShaderCache/4/47fc6675eb309dbcd00dabfab9ebd585.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/4/4b405fdba4355a37f0ee87e951eca235.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/4/4b405fdba4355a37f0ee87e951eca235.bin"
+      projectPath: Library/ShaderCache/4/4b405fdba4355a37f0ee87e951eca235.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/52cb82a9ceb61a8d6d4bff6ae25bacee.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/52cb82a9ceb61a8d6d4bff6ae25bacee.bin"
+      projectPath: Library/ShaderCache/5/52cb82a9ceb61a8d6d4bff6ae25bacee.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5311c2a940fe2dfa119bffc91f3e5e4f.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/5311c2a940fe2dfa119bffc91f3e5e4f.bin"
+      projectPath: Library/ShaderCache/5/5311c2a940fe2dfa119bffc91f3e5e4f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/53d3872dde403ae3b24196ecb8587c70.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/53d3872dde403ae3b24196ecb8587c70.bin"
+      projectPath: Library/ShaderCache/5/53d3872dde403ae3b24196ecb8587c70.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/53e3eb7b80ca4d12cffec9ee44c8ca5b.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/53e3eb7b80ca4d12cffec9ee44c8ca5b.bin"
+      projectPath: Library/ShaderCache/5/53e3eb7b80ca4d12cffec9ee44c8ca5b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/54e7fe7bf211136f6eb9c01895b37c8c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/54e7fe7bf211136f6eb9c01895b37c8c.bin"
+      projectPath: Library/ShaderCache/5/54e7fe7bf211136f6eb9c01895b37c8c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5593500c31c550ef411b5e4cc28db6a7.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/5593500c31c550ef411b5e4cc28db6a7.bin"
+      projectPath: Library/ShaderCache/5/5593500c31c550ef411b5e4cc28db6a7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/58355ea2ed84b5c43e80a99278adb8c6.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/58355ea2ed84b5c43e80a99278adb8c6.bin"
+      projectPath: Library/ShaderCache/5/58355ea2ed84b5c43e80a99278adb8c6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/58d8dabe7e806c2a85d656dc7682fd0b.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/58d8dabe7e806c2a85d656dc7682fd0b.bin"
+      projectPath: Library/ShaderCache/5/58d8dabe7e806c2a85d656dc7682fd0b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5b968171074dd4c68594d3a016f98d77.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/5b968171074dd4c68594d3a016f98d77.bin"
+      projectPath: Library/ShaderCache/5/5b968171074dd4c68594d3a016f98d77.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/5/5dfe9fd391f3f22aa8887a3a86509b87.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/5/5dfe9fd391f3f22aa8887a3a86509b87.bin"
+      projectPath: Library/ShaderCache/5/5dfe9fd391f3f22aa8887a3a86509b87.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6221d93b5087d7701141e65a956134c2.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/6/6221d93b5087d7701141e65a956134c2.bin"
+      projectPath: Library/ShaderCache/6/6221d93b5087d7701141e65a956134c2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/63c828a70c35fdfecb32206027b0f23a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/6/63c828a70c35fdfecb32206027b0f23a.bin"
+      projectPath: Library/ShaderCache/6/63c828a70c35fdfecb32206027b0f23a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6e188bc16ce1d012a926583047f99c53.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/6/6e188bc16ce1d012a926583047f99c53.bin"
+      projectPath: Library/ShaderCache/6/6e188bc16ce1d012a926583047f99c53.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/6/6ee5c664ace858361c9b8ffe718e422d.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/6/6ee5c664ace858361c9b8ffe718e422d.bin"
+      projectPath: Library/ShaderCache/6/6ee5c664ace858361c9b8ffe718e422d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/72fc04ba8a7367505e4647113fe0dfd2.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/7/72fc04ba8a7367505e4647113fe0dfd2.bin"
+      projectPath: Library/ShaderCache/7/72fc04ba8a7367505e4647113fe0dfd2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/75b912af518fa6ddde848e1a43e52dbd.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/7/75b912af518fa6ddde848e1a43e52dbd.bin"
+      projectPath: Library/ShaderCache/7/75b912af518fa6ddde848e1a43e52dbd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/76d122e27cbbf5cdb85d4a09e3db215a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/7/76d122e27cbbf5cdb85d4a09e3db215a.bin"
+      projectPath: Library/ShaderCache/7/76d122e27cbbf5cdb85d4a09e3db215a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7870f270dacd41453a28653d03698df0.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/7/7870f270dacd41453a28653d03698df0.bin"
+      projectPath: Library/ShaderCache/7/7870f270dacd41453a28653d03698df0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/7/7a0d1fcbfc10d8d6d808ab99a7b2c551.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/7/7a0d1fcbfc10d8d6d808ab99a7b2c551.bin"
+      projectPath: Library/ShaderCache/7/7a0d1fcbfc10d8d6d808ab99a7b2c551.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/81afd339d99843202b4b7f840dae42b2.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/8/81afd339d99843202b4b7f840dae42b2.bin"
+      projectPath: Library/ShaderCache/8/81afd339d99843202b4b7f840dae42b2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/85f86fdfc6734779039bfc432fe4684d.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/8/85f86fdfc6734779039bfc432fe4684d.bin"
+      projectPath: Library/ShaderCache/8/85f86fdfc6734779039bfc432fe4684d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8751fb2ffa1bdf90f1f271ff558f7d8d.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/8/8751fb2ffa1bdf90f1f271ff558f7d8d.bin"
+      projectPath: Library/ShaderCache/8/8751fb2ffa1bdf90f1f271ff558f7d8d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/8/8f2eaca44d1214fc79f03d1022ed2816.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/8/8f2eaca44d1214fc79f03d1022ed2816.bin"
+      projectPath: Library/ShaderCache/8/8f2eaca44d1214fc79f03d1022ed2816.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/90ff2bea1035ff17bdbced0f20e6269e.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/90ff2bea1035ff17bdbced0f20e6269e.bin"
+      projectPath: Library/ShaderCache/9/90ff2bea1035ff17bdbced0f20e6269e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/915d2498a54c679296f93748cecdb4f1.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/915d2498a54c679296f93748cecdb4f1.bin"
+      projectPath: Library/ShaderCache/9/915d2498a54c679296f93748cecdb4f1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/96e5bd0ec404dca8ee76115209aa50fc.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/96e5bd0ec404dca8ee76115209aa50fc.bin"
+      projectPath: Library/ShaderCache/9/96e5bd0ec404dca8ee76115209aa50fc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/971b26d3629f20a5f6d22348d4eda9fb.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/971b26d3629f20a5f6d22348d4eda9fb.bin"
+      projectPath: Library/ShaderCache/9/971b26d3629f20a5f6d22348d4eda9fb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/97b7dae09088031faae7a99c80ec8225.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/97b7dae09088031faae7a99c80ec8225.bin"
+      projectPath: Library/ShaderCache/9/97b7dae09088031faae7a99c80ec8225.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/9/9aa30686506960ab4d323ea867498d02.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/9/9aa30686506960ab4d323ea867498d02.bin"
+      projectPath: Library/ShaderCache/9/9aa30686506960ab4d323ea867498d02.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/EditorEncounteredVariants
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/EditorEncounteredVariants"
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache/a/a2c10ab6455766a8a80b77845c15fb9a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/a/a2c10ab6455766a8a80b77845c15fb9a.bin"
+      projectPath: Library/ShaderCache/a/a2c10ab6455766a8a80b77845c15fb9a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b183c60ef00c763a7b5958a5af55e3fe.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b183c60ef00c763a7b5958a5af55e3fe.bin"
+      projectPath: Library/ShaderCache/b/b183c60ef00c763a7b5958a5af55e3fe.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b1d839ac603a8e24e08a6962fa61766b.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b1d839ac603a8e24e08a6962fa61766b.bin"
+      projectPath: Library/ShaderCache/b/b1d839ac603a8e24e08a6962fa61766b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b1f05be3fe554d1e17e2b5eef8c956a2.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b1f05be3fe554d1e17e2b5eef8c956a2.bin"
+      projectPath: Library/ShaderCache/b/b1f05be3fe554d1e17e2b5eef8c956a2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b2862adbb90fe06230b101dad6ec362b.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b2862adbb90fe06230b101dad6ec362b.bin"
+      projectPath: Library/ShaderCache/b/b2862adbb90fe06230b101dad6ec362b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b2e2957734bb264dfbc29fd014b2b476.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b2e2957734bb264dfbc29fd014b2b476.bin"
+      projectPath: Library/ShaderCache/b/b2e2957734bb264dfbc29fd014b2b476.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b38f63fd660326f58a3e8f6add9db95e.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b38f63fd660326f58a3e8f6add9db95e.bin"
+      projectPath: Library/ShaderCache/b/b38f63fd660326f58a3e8f6add9db95e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b430383d5af9def16cbafc8a3f7dfc5e.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b430383d5af9def16cbafc8a3f7dfc5e.bin"
+      projectPath: Library/ShaderCache/b/b430383d5af9def16cbafc8a3f7dfc5e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b4c88c81b5223ec5122354d901b7d59c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b4c88c81b5223ec5122354d901b7d59c.bin"
+      projectPath: Library/ShaderCache/b/b4c88c81b5223ec5122354d901b7d59c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/b6bf840f3cd4fcc68f8c249b5694f640.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/b6bf840f3cd4fcc68f8c249b5694f640.bin"
+      projectPath: Library/ShaderCache/b/b6bf840f3cd4fcc68f8c249b5694f640.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/bf179f7c5ba7946bae585ffe44eda5b3.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/bf179f7c5ba7946bae585ffe44eda5b3.bin"
+      projectPath: Library/ShaderCache/b/bf179f7c5ba7946bae585ffe44eda5b3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/b/bf21fb09c3f40faafe8cf9813ec44667.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/b/bf21fb09c3f40faafe8cf9813ec44667.bin"
+      projectPath: Library/ShaderCache/b/bf21fb09c3f40faafe8cf9813ec44667.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c0ec31a05961822d2842e8d2b816ad40.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/c0ec31a05961822d2842e8d2b816ad40.bin"
+      projectPath: Library/ShaderCache/c/c0ec31a05961822d2842e8d2b816ad40.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c4f9288b75c01e4bafba662c6c1ff7a8.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/c4f9288b75c01e4bafba662c6c1ff7a8.bin"
+      projectPath: Library/ShaderCache/c/c4f9288b75c01e4bafba662c6c1ff7a8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c56148899e62012a7726ae5c8c68040e.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/c56148899e62012a7726ae5c8c68040e.bin"
+      projectPath: Library/ShaderCache/c/c56148899e62012a7726ae5c8c68040e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c6734584b4bed9ad090f8aee7081943d.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/c6734584b4bed9ad090f8aee7081943d.bin"
+      projectPath: Library/ShaderCache/c/c6734584b4bed9ad090f8aee7081943d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/c9b704a1ee3de6cc4d3b5b32abafcc99.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/c9b704a1ee3de6cc4d3b5b32abafcc99.bin"
+      projectPath: Library/ShaderCache/c/c9b704a1ee3de6cc4d3b5b32abafcc99.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/ca799a855dd98cca7af8110198944e9f.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/ca799a855dd98cca7af8110198944e9f.bin"
+      projectPath: Library/ShaderCache/c/ca799a855dd98cca7af8110198944e9f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/c/cf934b78de80ff6c73221b3f1ba0f431.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/c/cf934b78de80ff6c73221b3f1ba0f431.bin"
+      projectPath: Library/ShaderCache/c/cf934b78de80ff6c73221b3f1ba0f431.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d2887f26836a7cf8360797337fe33cb8.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/d2887f26836a7cf8360797337fe33cb8.bin"
+      projectPath: Library/ShaderCache/d/d2887f26836a7cf8360797337fe33cb8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d4c066bc8198e55017d7e01fe80bb306.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/d4c066bc8198e55017d7e01fe80bb306.bin"
+      projectPath: Library/ShaderCache/d/d4c066bc8198e55017d7e01fe80bb306.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d81ebc25e9e56c025a280535cd53a15a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/d81ebc25e9e56c025a280535cd53a15a.bin"
+      projectPath: Library/ShaderCache/d/d81ebc25e9e56c025a280535cd53a15a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d884ea5005f8fc248299498311fbf824.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/d884ea5005f8fc248299498311fbf824.bin"
+      projectPath: Library/ShaderCache/d/d884ea5005f8fc248299498311fbf824.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/d8c92dcd8bfe50aee96cff875dcc5364.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/d8c92dcd8bfe50aee96cff875dcc5364.bin"
+      projectPath: Library/ShaderCache/d/d8c92dcd8bfe50aee96cff875dcc5364.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/db4b830cef5a44e0750aee837115b203.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/db4b830cef5a44e0750aee837115b203.bin"
+      projectPath: Library/ShaderCache/d/db4b830cef5a44e0750aee837115b203.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/db74801104cbfee47143a425382bdc35.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/db74801104cbfee47143a425382bdc35.bin"
+      projectPath: Library/ShaderCache/d/db74801104cbfee47143a425382bdc35.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/ddb26a0aa97ed0c7a64e25acc420b332.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/ddb26a0aa97ed0c7a64e25acc420b332.bin"
+      projectPath: Library/ShaderCache/d/ddb26a0aa97ed0c7a64e25acc420b332.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/ddbbd6180542a093e56c163da4469983.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/ddbbd6180542a093e56c163da4469983.bin"
+      projectPath: Library/ShaderCache/d/ddbbd6180542a093e56c163da4469983.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/d/de5f567851dda5168a06d9dd1e284e31.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/d/de5f567851dda5168a06d9dd1e284e31.bin"
+      projectPath: Library/ShaderCache/d/de5f567851dda5168a06d9dd1e284e31.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e35958c4bdac7ad871b9ce73af85953c.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/e/e35958c4bdac7ad871b9ce73af85953c.bin"
+      projectPath: Library/ShaderCache/e/e35958c4bdac7ad871b9ce73af85953c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e5cc7b1129c40a0372ff479125ff7feb.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/e/e5cc7b1129c40a0372ff479125ff7feb.bin"
+      projectPath: Library/ShaderCache/e/e5cc7b1129c40a0372ff479125ff7feb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/e9b5b24c9923c8ec5f6e6c0f466a0302.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/e/e9b5b24c9923c8ec5f6e6c0f466a0302.bin"
+      projectPath: Library/ShaderCache/e/e9b5b24c9923c8ec5f6e6c0f466a0302.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/e/eab68bbba76ba765834874d0797ed86a.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/e/eab68bbba76ba765834874d0797ed86a.bin"
+      projectPath: Library/ShaderCache/e/eab68bbba76ba765834874d0797ed86a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f3af01226f059518f32cb7ac26574164.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/f/f3af01226f059518f32cb7ac26574164.bin"
+      projectPath: Library/ShaderCache/f/f3af01226f059518f32cb7ac26574164.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/f5de3916e0ed78bac076d5c8720e5f73.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/f/f5de3916e0ed78bac076d5c8720e5f73.bin"
+      projectPath: Library/ShaderCache/f/f5de3916e0ed78bac076d5c8720e5f73.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/fe8e1e0f6427ac9e325fc588126f7ae7.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/f/fe8e1e0f6427ac9e325fc588126f7ae7.bin"
+      projectPath: Library/ShaderCache/f/fe8e1e0f6427ac9e325fc588126f7ae7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/ff9b3422de612da9b663e477e41d5600.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/f/ff9b3422de612da9b663e477e41d5600.bin"
+      projectPath: Library/ShaderCache/f/ff9b3422de612da9b663e477e41d5600.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/ShaderCache/f/ffd76bea047c05eac4e3623cd8115daf.bin
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ShaderCache/f/ffd76bea047c05eac4e3623cd8115daf.bin"
+      projectPath: Library/ShaderCache/f/ffd76bea047c05eac4e3623cd8115daf.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/SourceAssetDB"
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/109cab-925712a9add9e40c99.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/109cab-925712a9add9e40c99.json"
+      projectPath: Library/StateCache/Hierarchy/109cab-925712a9add9e40c99.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/109cab-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/109cab-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/109cab-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/244503-925712a9add9e40c99.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/244503-925712a9add9e40c99.json"
+      projectPath: Library/StateCache/Hierarchy/244503-925712a9add9e40c99.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/244503-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/244503-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/244503-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/7ea13d-925712a9add9e40c99.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/7ea13d-925712a9add9e40c99.json"
+      projectPath: Library/StateCache/SceneView/7ea13d-925712a9add9e40c99.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/7ea13d-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/7ea13d-mainStage.json"
+      projectPath: Library/StateCache/SceneView/7ea13d-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8a6fb0-925712a9add9e40c99.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/8a6fb0-925712a9add9e40c99.json"
+      projectPath: Library/StateCache/SceneView/8a6fb0-925712a9add9e40c99.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/8a6fb0-mainStage.json"
+      projectPath: Library/StateCache/SceneView/8a6fb0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Timeline/1501d102240c24b87aa9ce9322360a89.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/1501d102240c24b87aa9ce9322360a89.pref"
+      projectPath: Library/Timeline/1501d102240c24b87aa9ce9322360a89.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Timeline/4045d79df20184003ad22666870f6e0d.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/4045d79df20184003ad22666870f6e0d.pref"
+      projectPath: Library/Timeline/4045d79df20184003ad22666870f6e0d.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Timeline/6fb6448f154f94e16a89a5f5e6ddbe33.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/6fb6448f154f94e16a89a5f5e6ddbe33.pref"
+      projectPath: Library/Timeline/6fb6448f154f94e16a89a5f5e6ddbe33.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Timeline/8f1980264bf62457abf2b745712abc98.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/8f1980264bf62457abf2b745712abc98.pref"
+      projectPath: Library/Timeline/8f1980264bf62457abf2b745712abc98.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Timeline/8f42c17a7b6764539b712a812ee5bdb7.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/8f42c17a7b6764539b712a812ee5bdb7.pref"
+      projectPath: Library/Timeline/8f42c17a7b6764539b712a812ee5bdb7.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Timeline/ecc33b52d67114b9b88d0502a2d4e4f5.pref
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Timeline/ecc33b52d67114b9b88d0502a2d4e4f5.pref"
+      projectPath: Library/Timeline/ecc33b52d67114b9b88d0502a2d4e4f5.pref
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/expandedItems
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/expandedItems"
+      projectPath: Library/expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gituser.yaml"
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler1.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler10.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler10.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler11.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler11.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler11.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler2.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler3.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler4.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler5.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler6.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler7.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler8.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler8.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler9.log
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/shadercompiler-UnityShaderCompiler9.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler9.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/UnityTempFile-c585caa33665c4fdaae1d9635337fc28
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Temp/UnityTempFile-c585caa33665c4fdaae1d9635337fc28"
+      projectPath: Temp/UnityTempFile-c585caa33665c4fdaae1d9635337fc28
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Temp/__Backupscenes/0.backup"
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 4b78087e4c744187b56f96fda5b61ef7cab491fb
     mergeA: 
     mergeB: 

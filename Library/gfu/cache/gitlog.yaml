@@ -13,9 +13,183 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-09-24T23:00:07.411+08:00
-  initializedAtString: 2020-09-24T22:58:23.581+08:00
+  lastUpdatedAtString: 2020-09-27T14:56:12.598+08:00
+  initializedAtString: 2020-09-27T14:55:52.367+08:00
   log:
+  - commitID: f634f6177623c54e878d288910eeec59a09370d3
+    mergeA: 
+    mergeB: 
+    authorName: zhouyadong1983
+    authorEmail: 191337976@qq.com
+    commitEmail: 191337976@qq.com
+    commitName: zhouyadong1983
+    summary: "\u4E09\u7EA7\u9875\u9762\u53BB\u6389\u8FD4\u56DE\u6309\u94AE"
+    description: "\u8FD4\u56DE\u6309\u94AE\u53BB\u6389\uFF0C\u6539\u4E3A\u70B9\u51FB\u80CC\u666F\u8FD4\u56DE"
+    timeString: 2020-09-27T14:55:50.000+08:00
+    commitTimeString: 2020-09-27T14:55:50.000+08:00
+    changes:
+    - path: .DS_Store
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/.DS_Store"
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ".vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/.vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      projectPath: ".vs/\u667A\u8054G\u7AEF/xs/UserPrefs.xml"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/RenderTexture/Introduce.renderTexture
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/RenderTexture/Introduce.renderTexture"
+      projectPath: Assets/RenderTexture/Introduce.renderTexture
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/RenderTexture/Multi.renderTexture
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/RenderTexture/Multi.renderTexture"
+      projectPath: Assets/RenderTexture/Multi.renderTexture
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/RenderTexture/videoLeft.renderTexture
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/RenderTexture/videoLeft.renderTexture"
+      projectPath: Assets/RenderTexture/videoLeft.renderTexture
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/RenderTexture/videoRight.renderTexture
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/RenderTexture/videoRight.renderTexture"
+      projectPath: Assets/RenderTexture/videoRight.renderTexture
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E09\u7EA7\u533B\u7597.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E09\u7EA7\u533B\u7597.unity"
+      projectPath: "Assets/Scenes/\u4E09\u7EA7\u533B\u7597.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E09\u7EA7\u653F\u6CD5.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E09\u7EA7\u653F\u6CD5.unity"
+      projectPath: "Assets/Scenes/\u4E09\u7EA7\u653F\u6CD5.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      projectPath: "Assets/Scenes/\u4E09\u7EA7\u6559\u80B2.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "Assets/Scenes/\u4E09\u7EA7\u6C11\u653F.unity"
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Assets/Scenes/\u4E09\u7EA7\u6C11\u653F.unity"
+      projectPath: "Assets/Scenes/\u4E09\u7EA7\u6C11\u653F.unity"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/ArtifactDB"
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/Artifacts/ae/aee7317e9089a7be9dae94e323d44242
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/ae/aee7317e9089a7be9dae94e323d44242"
+      projectPath: Library/Artifacts/ae/aee7317e9089a7be9dae94e323d44242
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/Artifacts/b1/b113635be14e6c14b4541cf8766fca7f
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/Artifacts/b1/b113635be14e6c14b4541cf8766fca7f"
+      projectPath: Library/Artifacts/b1/b113635be14e6c14b4541cf8766fca7f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentLayout-default.dwlt"
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/CurrentMaximizeLayout.dwlt"
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/EditorInstance.json"
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/PlayerDataCache/Win64/.DS_Store
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/PlayerDataCache/Win64/.DS_Store"
+      projectPath: Library/PlayerDataCache/Win64/.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/SourceAssetDB"
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/109cab-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/Hierarchy/109cab-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/109cab-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/7ea13d-mainStage.json
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/StateCache/SceneView/7ea13d-mainStage.json"
+      projectPath: Library/StateCache/SceneView/7ea13d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Library/gfu/cache/repoinfo.yaml"
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: "/Users/zhouyadong/Documents/\u667A\u8054G\u7AEF/Temp/__Backupscenes/0.backup"
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 96f64204298571f873d6ef492439b2739eeada0d
     mergeA: 
     mergeB: 

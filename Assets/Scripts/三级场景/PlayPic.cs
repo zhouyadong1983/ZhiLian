@@ -27,7 +27,7 @@ public class PlayPic : MonoBehaviour
 
         i++;
 
-        if(i==5)
+        if(i==picList.Count)
         {
             i = 0;
         }

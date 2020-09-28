@@ -5,7 +5,7 @@ using UnityEngine;
 public class ClickCounter : MonoBehaviour
 {
     private int counter;
-
+    public int num;
     public GameObject image;
 
     private bool isGo;
@@ -19,21 +19,21 @@ public class ClickCounter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (counter == 2& isGo == true)
+        if (counter == num & isGo == true)
         {
             Debug.Log("counter ==2");
             image.transform.GetComponent<PlayPic>().enabled = true;
             image.transform.GetComponent<PlayPic>().go();
             isGo = false;
         }
-        else if(counter !=2)
+        else if(counter != num)
         {
             Debug.Log("conter!=2");
             image.transform.GetComponent<PlayPic>().Cancel();
             image.transform.GetComponent<PlayPic>().enabled = false;
             
         }
-        if(counter !=2)
+        if(counter != num)
         {
             isGo = true;
         }

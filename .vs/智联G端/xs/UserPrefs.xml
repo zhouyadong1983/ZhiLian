@@ -1,12 +1,7 @@
 ﻿<Properties StartupConfiguration="{0663B1AA-86AC-A82F-D872-BF9C8539828E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LookatScipt.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/三级场景/ImageFillAnimation.cs">
     <Files>
-      <File FileName="Assets/Scripts/ShowUI.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/三级场景/PlayVideo.cs" Line="21" Column="11" />
-      <File FileName="Assets/Scripts/三级场景/PlayPic.cs" />
-      <File FileName="Assets/Scripts/三级场景/ClickCounter.cs" Line="31" Column="1" />
-      <File FileName="Assets/Scripts/三级场景/PlayMultiVideo.cs" Line="19" Column="67" />
-      <File FileName="Assets/Scripts/LookatScipt.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/三级场景/ImageFillAnimation.cs" Line="9" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +9,10 @@
           <Node name="智联G端" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="三级场景" expanded="True" />
-                <Node name="二级场景" expanded="True" />
-                <Node name="LookatScipt.cs" selected="True" />
+                <Node name="三级场景" expanded="True">
+                  <Node name="ImageFillAnimation.cs" selected="True" />
+                </Node>
               </Node>
-              <Node name="Shaders" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -27,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3619178f-73e0-46ea-9d7a-74f0f1c4c5ab" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eced3ff2-0647-4488-9ebc-7b648783ea80" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

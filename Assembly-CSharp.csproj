@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\startRotate.cs" />
     <Compile Include="Assets\Scripts\三级场景\ArrowControl.cs" />
     <Compile Include="Assets\Scripts\三级场景\ClickCounter.cs" />
+    <Compile Include="Assets\Scripts\三级场景\ImageFillAnimation.cs" />
     <Compile Include="Assets\Scripts\三级场景\PlayMultiVideo.cs" />
     <Compile Include="Assets\Scripts\三级场景\PlayPic.cs" />
     <Compile Include="Assets\Scripts\三级场景\PlayVideo.cs" />
